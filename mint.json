@@ -23,7 +23,6 @@
   ],
   "topbarCtaButton": {
     "type": "github",
-    "name": "Dashboard",
     "url": "https://github.com/dropalldatabases/sif"
   },
   "tabs": [
