@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "sif Documentation",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -22,8 +22,9 @@
     }
   ],
   "topbarCtaButton": {
+    "type": "github",
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://github.com/dropalldatabases/sif"
   },
   "tabs": [
     {
